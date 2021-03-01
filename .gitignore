@@ -1,0 +1,11 @@
+# dotenv environment variables file
+.env
+.env.test
+
+# Dev files
+package-lock.json
+database.sqlite
+
+# Dependency directories
+node_modules/
+jspm_packages/
